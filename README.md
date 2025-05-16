@@ -1,5 +1,6 @@
 # DUE-FSharp
 #F szabadon választott tárgy-hoz készült kis program leírása:
+Wndowsos verzió!
 
 1. Áttekintés
 
