@@ -1,0 +1,116 @@
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/PathFinder.exe
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/PathFinder.deps.json
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/PathFinder.runtimeconfig.json
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/PathFinder.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/PathFinder.pdb
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Base.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Controls.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.DesignerSupport.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Dialogs.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Markup.Xaml.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Markup.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Metal.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.MicroCom.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.OpenGL.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Vulkan.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Desktop.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Fonts.Inter.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.FreeDesktop.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Native.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Remote.Protocol.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Skia.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Themes.Fluent.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.Win32.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Avalonia.X11.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/FSharp.Core.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/HarfBuzzSharp.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/MicroCom.Runtime.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/SkiaSharp.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/Tmds.DBus.Protocol.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/cs/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/de/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/es/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/fr/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/it/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/ja/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/ko/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/pl/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/pt-BR/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/ru/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/tr/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/zh-Hans/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/zh-Hant/FSharp.Core.resources.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/av_libglesv2.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/libHarfBuzzSharp.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/bin/Release/net9.0/win-x64/libSkiaSharp.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/PathFinder.fsproj.AssemblyReference.cache
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/Avalonia/Resources.Inputs.cache
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/Avalonia/resources
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/PathFinder.AssemblyInfoInputs.cache
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/PathFinder.AssemblyInfo.fs
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/PathFinder.fsproj.CoreCompileInputs.cache
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/Avalonia/PathFinder.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/Avalonia/PathFinder.pdb
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/refint/Avalonia/PathFinder.dll
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/PathFinder.fsproj.Up2Date
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/PathFinder.genruntimeconfig.cache
+/Users/drothkristof/Downloads/avalonia/PathFinder/obj/Release/net9.0/win-x64/ref/PathFinder.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\PathFinder.exe
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\PathFinder.deps.json
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\PathFinder.runtimeconfig.json
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\PathFinder.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\PathFinder.pdb
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Base.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Controls.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.DesignerSupport.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Dialogs.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Markup.Xaml.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Markup.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Metal.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.MicroCom.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.OpenGL.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Vulkan.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Desktop.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Fonts.Inter.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.FreeDesktop.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Native.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Remote.Protocol.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Skia.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Themes.Fluent.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.Win32.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Avalonia.X11.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\FSharp.Core.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\HarfBuzzSharp.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\MicroCom.Runtime.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\SkiaSharp.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\Tmds.DBus.Protocol.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\cs\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\de\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\es\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\fr\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\it\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\ja\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\ko\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\pl\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\pt-BR\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\ru\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\tr\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\zh-Hans\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\zh-Hant\FSharp.Core.resources.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\av_libglesv2.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\libHarfBuzzSharp.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\bin\Release\net9.0\win-x64\libSkiaSharp.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\PathFinder.fsproj.AssemblyReference.cache
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\Avalonia\Resources.Inputs.cache
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\Avalonia\resources
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\PathFinder.AssemblyInfoInputs.cache
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\PathFinder.AssemblyInfo.fs
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\PathFinder.fsproj.CoreCompileInputs.cache
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\Avalonia\PathFinder.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\Avalonia\PathFinder.pdb
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\refint\Avalonia\PathFinder.dll
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\PathFinder.fsproj.Up2Date
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\PathFinder.genruntimeconfig.cache
+C:\Users\lovet\Downloads\old downloads\PathFinder Josh\PathFinder Josh\Code\PathFinder\obj\Release\net9.0\win-x64\ref\PathFinder.dll
